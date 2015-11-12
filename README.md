@@ -1,4 +1,4 @@
-# Who says there are no free :beers:?
+# Who says there are no free beers?
 
 ## Beercruit is a Zero-Commitment Free Beer meetup with an amazing team.
 
