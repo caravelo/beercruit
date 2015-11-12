@@ -1,0 +1,2 @@
+# beercruit
+Meeting for Beers
