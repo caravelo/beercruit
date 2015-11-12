@@ -1,12 +1,9 @@
-# beercruit
-Meeting for Beers
-
-
 # Who says there are no free beers?
 
 ## Beercruit is a Zero-Commitment Free Beer meetup with an amazing team.
 
-***
+
+
 
 
 # It's just a couple of beers, not recruiting.
@@ -18,7 +15,7 @@ It's a chance for you to learn about what other teams are working on and an oppo
 
 Beer not only fuels meaningful conversation, but also gives the opportunity to create long-lasting relationships. We think that's how hiring should be done.
 
-***
+
 
 # How it works
 ## 1. Find an open slot
@@ -47,7 +44,7 @@ Once approved, we will send you an email with the exact address and bar where we
 Remember: it’s a zero-commitment beer meetup and it's just a chance to share some of the cool things we/you’re working on.
 Of course, if we have any opportunities that might be a good fit for you we will let you know ;)
 
-***  
+  
 
 # FAQ
 ## For Beercruiters
