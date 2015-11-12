@@ -19,7 +19,7 @@ Beer not only fuels meaningful conversation, but also gives the opportunity to c
 
 # How it works
 ## 1. Find an open slot
-Search through Beercruit Repo an open slot. Meetups are open to anyone, but we want to make them meaningful for both parties. There will be a maximum number of attendees (as well as a minimum) and among all the requests received, we will priortize by request date.
+Search through Beercruit Repo an open slot. Meetups are open to everyone, but we want to make them meaningful for both parties. There will be a maximum number of attendees (as well as a minimum) and among all the requests received, we will priortize by request date.
 
 ## 2. Complete your application
 Once you’ve found an open meetup that suits you well, just create a file with the following information:
