@@ -31,7 +31,6 @@ Books:
 Authors:
 Films:
 Music:
-Alcohol:
 I like:
 I dislike:
 
@@ -43,7 +42,7 @@ I dislike:
 
 ```
 
-In other to keep your information private, please encrypt the file using our public key and sign it.
+Keep your information private, please encrypt the file using our public key and sign it.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
