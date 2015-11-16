@@ -1,19 +1,25 @@
-# Who says there are no free beers? ![Caravelo's Beercruit 2015](https://img.shields.io/badge/beercruit-Dec--2015-brightgreen.svg)
+> Our ‘Talent & Beer-Pool’ is a Zero-commitment meet-up for like-minded people while enjoying free beers. We’d love to meet new talent, share experiences in an informal and pleasurable way. 
 
-> Beercruit is a zero-commitment free beer meetup with an amazing team.
+![Caravelo's Beercruit 2015](https://img.shields.io/badge/BeerCruit-Dec--2015-brightgreen.svg)
 
-# It's just a couple of beers, not recruiting
-It's just a couple of beers with an interesting team. No pressure, zero-commitment, no strings attached.
+# Who says there is no such thing as free beers? 
 
-Our goal is to connect with great developers (and people). We always want you to get the most out of this experience, so there is not a closed agenda or predefined script.
+We are confident business can very well be combined with pleasure. If you’re interested in all things tech and what likeminded people are working on, let’s hang out!
 
-It's a chance for you to learn about what other teams are working on and an opportunity for them to see what you are working on.
+# It's informal, informative and entertaining.
+Caravelo is a leader in airline technology creating new services for airlines and passengers worldwide. We're based in Barcelona working hard with cutting edge web technologies. More often than not, we're out and about drinking beer and meeting nice people who are passionate about application development.
 
-Beer not only fuels meaningful conversation, but also gives the opportunity to create long-lasting relationships. We think that's how hiring should be done.
+We’re interested in meeting you in a relaxed way, with no pressure, zero-commitment or strings attached. No closed agenda, boring monologues just cool work, nice people & potentially great opportunities.
+
+Beer not only fuels meaningful conversation and creativity, but also gives the opportunity to spark true relationships, the kind we really value. 
+
+We’d like to get to know other developers, talk about what different teams are working on while having a good time.  It's a chance for you to learn about what other teams are working on, share experiences and eventually create a spark to work together! 
+
+Are you in the BCN, like programming, beers & networking as they all should be? Come by!
 
 # How it works
 ## 1. Find an open slot
-Search through Beercruit repo an open slot. Meetups are open to everyone, but we want to make them meaningful for both parties. There will be a maximum number of attendees (as well as a minimum) and among all the requests received, we will priortize by request date.
+Search through the Beercruit Repo for an open slot. Meetups are open to anyone but we want to make them meaningful for everyone. There will be a limited amount of spots maximum number of attendees (as well as a minimum) and among all the requests received, we will prioritize by request date. First come, first served!
 
 ## 2. Complete your application
 Once you’ve found an open meetup that suits you well, just create a file with the following information:
@@ -81,44 +87,40 @@ wmdSVqAEPKcLfLUopwA19OzMao1ESfFemrFhbwEysOR25orv2EeGEN2HrLaQwX2+
 Once you have it ready, make us a pull request so we can double-check you have enconded the file properly and there is availability for that slot.
 
 ## 4. Grab your Beers!
-Once approved, we will send you an email with the exact address and bar where we are going to meet. Go and grab your beers! 
-Remember: it’s a zero-commitment beer meetup and it's just a chance to share some of the cool things we/you’re working on.
-Of course, if we have any opportunities that might be a good fit for you we will let you know ;)
+Once approved, we will send you an email with the exact address of the bar where we’re meeting. Being these the firsts meet-up we’re hosting and hoping we’ll do lots more, we’ll do everything we can to make them as pleasant and interesting for you as possible!
+
+Remember: this is a zero-commitment beer meetup and it's just a chance to get to know each other and eventually spark a potential interest to work together!
 
 
 # FAQ
 ## For Beercruiters
 Q: Why free beers?
 
-A: We offer beers because we believe it's a great opportunity to meet talented people in a relaxed environment and is cheaper than joining any recruiting event.
+A: We offer beers because we believe it's a great opportunity to meet talented people in a relaxed environment. It’s also much better money spent than any recruitment event out there. 
 
-Q: Is it really a free beer session?
+Q: What’s in it for everyone?
 
-A: Yes! We love sharing our project and exchanging ideas with talented people. 
+A: It’s a win-win: a chance to have a genuine exchange of knowledge, maybe unlock valuable work opportunities while having a good time. 
 
-Q: What’s in it for you?
+Q: Who will I meet?
 
-A: It’s a chance to sell our company and project to talented professionals, share our challenges and listen what you’re working on over a beer.
-
-Q: Will I have to meet with a recruiter?
-
-A: NO, in fact you will share one of the tech team weekly celebrations.
+A: The entire Caravelo tech team will be there to receive anyone & everyone who’s up for it!
 
 Q: Is this recruiting?
 
-A: Not explicitly since not everyone is actively job seeking but it’s a wonderful addition to our recruiting initiative. It’s an opportunity to sell our company to the developer community.
-
+A: Not explicitly since not everyone is actively job seeking but it’s a wonderful opportunity to get to know each other and potentially become coworkers at some point.
+ 
 Q: Are we going to code?
 
-A: If you want to do so, we will. But we will prefer not, the day is usually long and the beers doesn't help to much to focus.
+A: We prefer not to and keep the coding out of the bar.
 
-## For Other Companies
-Q: Can I join your meetup?
+Q: Can anyone join?
 
-A: Yes sure! If you share our point of view and session understanding, we would be happy to also meet you.
+A: Yes! If you’re interested in technology, you’re not a jerk & open to meet like-minded people come over!
+ 
 
 ----
 
-Any question? Please email us to beercruit@caravelo.com
+Any other question? Please email us to beercruit@caravelo.com
 
 
