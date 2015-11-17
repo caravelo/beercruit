@@ -1,4 +1,4 @@
-> Our ‘Talent & Beer-Pool’ is a Zero-commitment meet-up for like-minded people while enjoying free beers. We’d love to meet new talent, share experiences in an informal and pleasurable way. 
+> 'BeerCruit' is a Zero-commitment meet-up for like-minded people while enjoying free beers. We’d love to meet new talent, share experiences in an informal and pleasurable way. 
 
 ![Caravelo's Beercruit 2015](https://img.shields.io/badge/BeerCruit-Dec--2015-brightgreen.svg)
 
@@ -85,7 +85,7 @@ wmdSVqAEPKcLfLUopwA19OzMao1ESfFemrFhbwEysOR25orv2EeGEN2HrLaQwX2+
 ```
 
 ## 3. Make a pull request
-Once you have it ready, make a pull request so we can double-check you have enconded the file properly and there is availability for that slot.
+Once you have it ready, make a pull request so we can double-check you have encoded the file properly and there is availability for that slot.
 
 ## 4. Grab your Beers!
 Once approved, we will send you an email with the exact address of the bar where we’re meeting. Being these the firsts meet-ups we’re hosting and hoping we’ll do lots more, we’ll do everything we can to make them as pleasant and interesting as possible!

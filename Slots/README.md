@@ -1,5 +1,5 @@
-# When are you meeting?
-Depending on the day we will meet between 18:00 :clock6: and 19:00 :clock7:; we prefer to organize the meetups on Thursday and Friday, but this is something we will manage on a case-per-case basis.
+# When is it happening?
+Depending on the day, we will meet between 18:00 :clock6: and 19:00 :clock7:; we prefer to organize the meetups on Thursday and Friday, although we can manage on a case-per-case basis.
 
 Every slot has their own folder and is coded as follows `YYYY-MM-DD [STATUS]` 
 
@@ -83,7 +83,7 @@ wmdSVqAEPKcLfLUopwA19OzMao1ESfFemrFhbwEysOR25orv2EeGEN2HrLaQwX2+
 ```
 
 ## 3. Make a pull request
-Once you have it ready, make us a pull request so we can double-check  you have enconded the file properly and there is availability for that slot.
+Once you have it ready, make a pull request so we can double-check  you have encoded the file properly and there is availability for that slot.
 
 If you want to keep your attendance secret you can send the file via emai (beercruit@caravelo.com).
 
@@ -105,6 +105,5 @@ We are discovering and enjoying nice beer places in **Barcelona**. Among them yo
 <a href="https://www.brewdog.com/lowdown/blog/brewdog-barcelona-is-here"><img src="https://pbs.twimg.com/profile_images/620869126744055809/xWkAFRy8_400x400.jpg" alt="BrewDog" height="100"></a>
 <a href="https://www.facebook.com/lacerveseraartesana"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/c0.0.320.320/p320x320/10406375_819910761397943_5877291148117346681_n.jpg?oh=125899b12231703180f212e31e987c3c&oe=56EEADEB&__gda__=1454205973_3b76e73822f48426b1fccfdbd5ac532e" alt="La Cervesa Artesana" height="100"></a>
 
-Any suggestion? Happy to hear about it!
-
+Like any other place? Happy to take suggestions!
 
