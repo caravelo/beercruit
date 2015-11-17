@@ -1,5 +1,5 @@
 # When is it happening?
-Depending on the day, we will meet between 18:00 :clock6: and 19:00 :clock7:; we prefer to organize the meetups on Thursday and Friday, although we can manage on a case-per-case basis.
+Depending on the day, we will meet between 18:00 and 19:00; we prefer to organize the meetups on Thursday and Friday, although we can manage on a case-per-case basis.
 
 Every slot has their own folder and is coded as follows `YYYY-MM-DD [STATUS]` 
 
@@ -24,9 +24,9 @@ Remember:
 
 
 ## 1. Find an open slot
-:mag: Search through the folders an open slot.
+Search through the folders an open slot.
 ## 2. Complete your application
-:memo: Once you’ve found an open meetup that suits you well, just create a file with the following information:
+Once you’ve found an open meetup that suits you well, just create a file with the following information:
 
 ```
 -------[ Contact Details ]-------
