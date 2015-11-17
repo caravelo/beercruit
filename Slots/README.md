@@ -1,7 +1,7 @@
 # When are you meeting?
-Depending on the day we will meet between 18:00 and 19:00; we prefer to organize the meetups on Thursday and Friday, but this is something we will manage on a case-per-case basis.
+Depending on the day we will meet between 18:00 :clock6: and 19:00 :clock7:; we prefer to organize the meetups on Thursday and Friday, but this is something we will manage on a case-per-case basis.
 
-Every slot has their own folfer and is coded as follows `YYYY-MM-DD [STATUS]` 
+Every slot has their own folder and is coded as follows `YYYY-MM-DD [STATUS]` 
 
 Where the `[STATUS]` can be: `OPEN`, `FULL`, `CANCELLED` or `PASSED`
 
@@ -24,9 +24,9 @@ Remember:
 
 
 ## 1. Find an open slot
-Search through the folders an open slot.
+:mag: Search through the folders an open slot.
 ## 2. Complete your application
-Once you’ve found an open meetup that suits you well, just create a file with the following information:
+:memo: Once you’ve found an open meetup that suits you well, just create a file with the following information:
 
 ```
 -------[ Contact Details ]-------
@@ -35,24 +35,19 @@ Name:
 Email:
 Phone:
 
--------[ Favorites ]-------
+-------[ Things I'm very much into ]-------
 
-Books:
-Authors:
-Films:
-Music:
-I like:
-I dislike:
+-------[ Things I'm not at all into ]-------
 
 -------[ Why do you want to join? ]-------
 
 -------[ Is there any topic you would like to discuss? ]-------
 
--------[ Describe your life/slack balance, if applicable ]-------
+-------[ Describe your life / slack balance, if applicable ]-------
 
 ```
 
-Keep your information private, please encrypt the file using our public key and sign it.
+:closed_lock_with_key: Keep your information private, please encrypt the file using our public key and sign it.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -94,6 +89,8 @@ If you want to keep your attendance secret you can send the file via emai (beerc
 
 ## 4. Grab your Beers!
 Once approved, we will send you an email with the exact address of the bar where we’re meeting.
+
+<img src="https://media.giphy.com/media/X530jPOZXRMwo/giphy.gif" height="200">
 
 
 
