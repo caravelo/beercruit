@@ -129,6 +129,3 @@ Can anyone join?
 
 Any other question? Please email us to beercruit@caravelo.com
 
-[![Analytics](https://ga-beacon.appspot.com/UA-10642778-20/beercruit/readme?pixel)](https://github.com/caravelo/beercruit)
-
-
