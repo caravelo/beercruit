@@ -19,6 +19,11 @@ We’d like to get to know other developers, talk about what different teams are
 Are you in the BCN, like programming, beers & networking as they all should be? Come by!
 
 # How it works
+- [ ] 1. Find an open slot
+- [ ] 2. Complete your application
+- [ ] 3. Make a pull request
+- [ ] 4. Grab your Beers!
+ 
 ## 1. Find an open slot
 Search through the Beercruit Repo for an open slot. Meetups are open to anyone but we want to make them meaningful for everyone. There will be a limited amount of spots maximum number of attendees (as well as a minimum) and among all the requests received, we will prioritize by request date. First come, first served!
 
