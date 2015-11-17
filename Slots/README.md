@@ -1,18 +1,16 @@
 # When are you meeting?
 Depending on the day we will meet between 18:00 and 19:00; we prefer to organize the meetups on Thursday and Friday, but this is something we will manage on a case-per-case basis.
 
-Every slot has their own folfer and is coded as follows (YYYY-MM-DD) [STATUS]. 
+Every slot has their own folfer and is coded as follows `YYYY-MM-DD [STATUS]` 
 
-Where the [STATUS] can be:
+Where the `[STATUS]` can be: `OPEN`, `FULL`, `CANCELLED` or `PASSED`
 
-* OPEN
-* FULL
-* CANCELLED
 
-Remember: Meetups are open to anyone but we want to make them meaningful for everyone. 
+Remember: 
 
-* There will be a limited amount of spots maximum number of attendees, so we would flag them as FULL 
-* As well as a minimum, so we could flag them as CANCELLED 
+* Meetups are open to anyone but we want to make them meaningful for everyone. 
+* There will be a limited amount of spots maximum number of attendees, so we would flag them as `FULL` 
+* As well as a minimum, so we could flag them as `CANCELLED` 
 * Among all the requests received, we will prioritize by request date. First come, first served!
 
 
@@ -109,5 +107,7 @@ We are discovering and enjoying nice beer places in **Barcelona**. Among them yo
 <a href="http://www.lacerveteca.com/"><img src="http://www.lacerveteca.com/images/tpl/logo-roundV2.gif" alt="La Cerveteca" height="100"></a>
 <a href="https://www.brewdog.com/lowdown/blog/brewdog-barcelona-is-here"><img src="https://pbs.twimg.com/profile_images/620869126744055809/xWkAFRy8_400x400.jpg" alt="BrewDog" height="100"></a>
 <a href="https://www.facebook.com/lacerveseraartesana"><img src="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xpa1/v/t1.0-1/c0.0.320.320/p320x320/10406375_819910761397943_5877291148117346681_n.jpg?oh=125899b12231703180f212e31e987c3c&oe=56EEADEB&__gda__=1454205973_3b76e73822f48426b1fccfdbd5ac532e" alt="La Cervesa Artesana" height="100"></a>
+
+Any suggestion? Happy to hear about it!
 
 
