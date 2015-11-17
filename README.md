@@ -4,19 +4,19 @@
 
 # Who says there is no such thing as free beers? 
 
-We are confident business can very well be combined with pleasure. If you’re interested in all things tech and what likeminded people are working on, let’s hang out!
+We are confident business can very well be combined with pleasure. If you’re interested in all things tech and what like-minded people are working on, let’s hang out!
 ![Various Beers](http://yukonbeerfestival.com/wp-content/uploads/2015/07/various-beers.jpg)
 
 # It's informal, informative and entertaining.
-Caravelo is a leader in airline technology creating new services for airlines and passengers worldwide. We're based in Barcelona working hard with cutting edge web technologies. More often than not, we're out and about drinking beer and meeting nice people who are passionate about application development.
+Caravelo is a leader in airline technology creating new services for airlines and passengers worldwide. We're based in Barcelona working hard with cutting edge web technologies. More often than not, we're out and about drinking beer and meeting nice people who are passionate about software development.
 
 We’re interested in meeting you in a relaxed way, with no pressure, zero-commitment or strings attached. No closed agenda, boring monologues just cool work, nice people & potentially great opportunities.
 
 Beer not only fuels meaningful conversation and creativity, but also gives the opportunity to spark true relationships, the kind we really value. 
 
-We’d like to get to know other developers, talk about what different teams are working on while having a good time.  It's a chance for you to learn about what other teams are working on, share experiences and eventually create a spark to work together! 
+We’d like to get to know other developers, talk about what different teams are working on while having a good time.  It's a chance for you to learn about what we're are working on, share experiences and eventually create a spark to work together! 
 
-Are you in the BCN, like programming, beers & networking as they all should be? Come by!
+Are you in the BCN, like programming, beers & networking as it should be? Come by!
 
 # How it works
 - [ ] 1. :calendar: Find an open slot
@@ -25,10 +25,10 @@ Are you in the BCN, like programming, beers & networking as they all should be? 
 - [ ] 4. :beers: Grab your Beers!
  
 ## 1. Find an open slot
-Search through the Beercruit Repo for an open slot. Meetups are open to anyone but we want to make them meaningful for everyone. There will be a limited amount of spots maximum number of attendees (as well as a minimum) and among all the requests received, we will prioritize by request date. First come, first served!
+Search through the Beercruit Repo for an open slot. Meetups are open to anyone but we want to make them meaningful for everyone. There will a maximum number of attendees (as well as a minimum) and among all the requests received, we will prioritize by request date. First come, first served!
 
 ## 2. Complete your application
-Once you’ve found an open meetup that suits you well, just create a file with the following information:
+Once you’ve found an open meetup slot that suits you well, just create a file with the following information:
 
 ```
 -------[ Contact Details ]-------
@@ -37,20 +37,15 @@ Name:
 Email:
 Phone:
 
--------[ Favorites ]-------
+-------[ Things I'm very much into ]-------
 
-Books:
-Authors:
-Films:
-Music:
-I like:
-I dislike:
+-------[ Things I'm not at all into ]-------
 
 -------[ Why do you want to join? ]-------
 
 -------[ Is there any topic you would like to discuss? ]-------
 
--------[ Describe your life/slack balance, if applicable ]-------
+-------[ Describe your life / slack balance, if applicable ]-------
 
 ```
 
@@ -90,10 +85,10 @@ wmdSVqAEPKcLfLUopwA19OzMao1ESfFemrFhbwEysOR25orv2EeGEN2HrLaQwX2+
 ```
 
 ## 3. Make a pull request
-Once you have it ready, make us a pull request so we can double-check you have enconded the file properly and there is availability for that slot.
+Once you have it ready, make a pull request so we can double-check you have enconded the file properly and there is availability for that slot.
 
 ## 4. Grab your Beers!
-Once approved, we will send you an email with the exact address of the bar where we’re meeting. Being these the firsts meet-up we’re hosting and hoping we’ll do lots more, we’ll do everything we can to make them as pleasant and interesting for you as possible!
+Once approved, we will send you an email with the exact address of the bar where we’re meeting. Being these the firsts meet-ups we’re hosting and hoping we’ll do lots more, we’ll do everything we can to make them as pleasant and interesting as possible!
 
 Remember: this is a zero-commitment beer meetup and it's just a chance to get to know each other and eventually spark a potential interest to work together!
 
@@ -102,7 +97,7 @@ Remember: this is a zero-commitment beer meetup and it's just a chance to get to
 ## For Beercruiters
 Q: Why free beers?
 
-A: We offer beers because we believe it's a great opportunity to meet talented people in a relaxed environment. It’s also much better money spent than any recruitment event out there. 
+A: We offer beers because we believe it's a great opportunity to meet talented people in a relaxed environment. It’s also money much better spent than any recruitment event out there. 
 
 Q: What’s in it for everyone?
 
@@ -114,7 +109,7 @@ A: The entire Caravelo tech team will be there to receive anyone & everyone who�
 
 Q: Is this recruiting?
 
-A: Not explicitly since not everyone is actively job seeking but it’s a wonderful opportunity to get to know each other and potentially become coworkers at some point.
+A: Not explicitly, since not everyone is actively job seeking but it’s a wonderful opportunity to get to know each other and potentially become coworkers at some point.
  
 Q: Are we going to code?
 
