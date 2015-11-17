@@ -90,7 +90,9 @@ Once you have it ready, make a pull request so we can double-check you have enco
 ## 4. Grab your Beers!
 Once approved, we will send you an email with the exact address of the bar where we’re meeting. Being these the firsts meet-ups we’re hosting and hoping we’ll do lots more, we’ll do everything we can to make them as pleasant and interesting as possible!
 
-Remember: this is a zero-commitment beer meetup and it's just a chance to get to know each other and eventually spark a potential interest to work together!
+Remember: 
+
+> This is a zero-commitment beer meetup and it's just a chance to get to know each other and eventually spark a potential interest to work together!
 
 
 # FAQ
