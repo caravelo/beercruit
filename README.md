@@ -97,29 +97,29 @@ Remember:
 
 # FAQ
 ## For Beercruiters
-Q: Why free beers?
+Why free beers?
 
-A: We offer beers because we believe it's a great opportunity to meet talented people in a relaxed environment. It’s also money much better spent than any recruitment event out there. 
+> We offer beers because we believe it's a great opportunity to meet talented people in a relaxed environment. It’s also money much better spent than any recruitment event out there. 
 
-Q: What’s in it for everyone?
+What’s in it for everyone?
 
-A: It’s a win-win: a chance to have a genuine exchange of knowledge, maybe unlock valuable work opportunities while having a good time. 
+> It’s a win-win: a chance to have a genuine exchange of knowledge, maybe unlock valuable work opportunities while having a good time. 
 
-Q: Who will I meet?
+Who will I meet?
 
-A: The entire Caravelo tech team will be there to receive anyone & everyone who’s up for it!
+> The entire Caravelo tech team will be there to receive anyone & everyone who’s up for it!
 
-Q: Is this recruiting?
+Is this recruiting?
 
-A: Not explicitly, since not everyone is actively job seeking but it’s a wonderful opportunity to get to know each other and potentially become coworkers at some point.
+> Not explicitly, since not everyone is actively job seeking but it’s a wonderful opportunity to get to know each other and potentially become coworkers at some point.
  
-Q: Are we going to code?
+Are we going to code?
 
-A: We prefer not to and keep the coding out of the bar.
+> We prefer not to and keep the coding out of the bar.
 
-Q: Can anyone join?
+Can anyone join?
 
-A: Yes! If you’re interested in technology, you’re not a jerk & open to meet like-minded people come over!
+> Yes! If you’re interested in technology, you’re not a jerk & open to meet like-minded people come over!
  
 
 ----
