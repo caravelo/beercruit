@@ -9,7 +9,7 @@ We are confident business can very well be combined with pleasure. If you’re i
 <img src="http://yukonbeerfestival.com/wp-content/uploads/2015/07/various-beers.jpg" height="200">
 
 
-# It's informal, informative and entertaining.
+# It's informal, informative and entertaining
 [Caravelo](http://www.caravelo.com) is a leader in airline technology creating new services for airlines and passengers worldwide. We're based in Barcelona working hard with cutting edge web technologies. More often than not, we're out and about drinking beer and meeting nice people who are passionate about software development.
 
 We’re interested in meeting you in a relaxed way, with no pressure, zero-commitment or strings attached. No closed agenda, boring monologues just cool work, nice people & potentially great opportunities.
