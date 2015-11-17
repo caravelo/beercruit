@@ -1,6 +1,6 @@
 > 'BeerCruit' is a Zero-commitment meet-up for like-minded people while enjoying free beers. We’d love to meet new talent, share experiences in an informal and pleasurable way. 
 
-![Caravelo's Beercruit 2015](https://img.shields.io/badge/BeerCruit-Dec--2015-brightgreen.svg)
+[![Caravelo's Beercruit 2015](https://img.shields.io/badge/BeerCruit-Nov--2015-brightgreen.svg)](https://github.com/caravelo/beercruit/tree/master/slots)
 
 # Who says there is no such thing as free beers? 
 
@@ -21,10 +21,10 @@ We’d like to get to know other developers, talk about what different teams are
 Are you in the BCN, like programming, beers & networking as it should be? Come by!
 
 # How it works
-- [ ] 1. :calendar: Find an open slot
-- [ ] 2. :memo: Complete your application
-- [ ] 3. :point_up: Make a pull request
-- [ ] 4. :beers: Grab your Beers!
+1. :calendar: Find an open slot
+2. :memo: Complete your application
+3. :point_up: Make a pull request
+4. :beers: Grab your Beers!
  
 ## 1. Find an open slot
 Search through the Beercruit Repo for an open slot. Meetups are open to anyone but we want to make them meaningful for everyone. There will a maximum number of attendees (as well as a minimum) and among all the requests received, we will prioritize by request date. First come, first served!
