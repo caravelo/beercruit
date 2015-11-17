@@ -2,6 +2,7 @@
 
 [![Caravelo's Beercruit 2015](https://img.shields.io/badge/BeerCruit-Nov--2015-brightgreen.svg)](https://github.com/caravelo/beercruit/tree/master/slots)
 
+
 # Who says there is no such thing as free beers? 
 
 We are confident business can very well be combined with pleasure. If you’re interested in all things tech and what like-minded people are working on, let’s hang out!
@@ -127,5 +128,7 @@ Can anyone join?
 ----
 
 Any other question? Please email us to beercruit@caravelo.com
+
+[![Analytics](https://ga-beacon.appspot.com/UA-10642778-20/beercruit/readme?pixel)](https://github.com/caravelo/beercruit)
 
 
