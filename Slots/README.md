@@ -18,6 +18,13 @@ Remember: Meetups are open to anyone but we want to make them meaningful for eve
 
 
 # How to join you?
+- [ ] 1. :calendar: Find an open slot
+- [ ] 2. :memo: Complete your application
+- [ ] 3. :point_up: Make a pull request
+- [ ] 4. :beers: Grab your Beers!
+
+
+
 ## 1. Find an open slot
 Search through the folders an open slot.
 ## 2. Complete your application
@@ -83,7 +90,9 @@ wmdSVqAEPKcLfLUopwA19OzMao1ESfFemrFhbwEysOR25orv2EeGEN2HrLaQwX2+
 ```
 
 ## 3. Make a pull request
-Once you have it ready, make us a pull request so we can double-check you have enconded the file properly and there is availability for that slot.
+Once you have it ready, make us a pull request so we can double-check  you have enconded the file properly and there is availability for that slot.
+
+If you want to keep your attendance secret you can send the file via emai (beercruit@caravelo.com).
 
 ## 4. Grab your Beers!
 Once approved, we will send you an email with the exact address of the bar where we’re meeting.
