@@ -5,6 +5,7 @@
 # Who says there is no such thing as free beers? 
 
 We are confident business can very well be combined with pleasure. If you’re interested in all things tech and what likeminded people are working on, let’s hang out!
+![Various Beers](http://yukonbeerfestival.com/wp-content/uploads/2015/07/various-beers.jpg)
 
 # It's informal, informative and entertaining.
 Caravelo is a leader in airline technology creating new services for airlines and passengers worldwide. We're based in Barcelona working hard with cutting edge web technologies. More often than not, we're out and about drinking beer and meeting nice people who are passionate about application development.
