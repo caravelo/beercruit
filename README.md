@@ -13,7 +13,7 @@ We are confident business can very well be combined with pleasure. If you’re i
 # It's informal, informative and entertaining
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9vqfMSa1AB4" target="_blank"><img src="http://img.youtube.com/vi/9vqfMSa1AB4/0.jpg" 
-alt="Beercruit Video" width="680" border="0" /></a>
+alt="Beercruit Video" width="440" border="0" /></a>
 
 
 [Caravelo](http://www.caravelo.com) is a leader in airline technology creating new services for airlines and passengers worldwide. We're based in Barcelona working hard with cutting edge web technologies. More often than not, we're out and about drinking beer and meeting nice people who are passionate about software development.
