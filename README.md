@@ -1,6 +1,6 @@
 > 'BeerCruit' is a Zero-commitment meet-up for like-minded people while enjoying free beers. We’d love to meet new talent, share experiences in an informal and pleasurable way. 
 
-[![Caravelo's Beercruit 2015](https://img.shields.io/badge/BeerCruit-Nov--2015-brightgreen.svg)](https://github.com/caravelo/beercruit/tree/master/slots)
+[![Caravelo's Beercruit 2015](https://img.shields.io/badge/BeerCruit-Jan--2016-brightgreen.svg)](https://github.com/caravelo/beercruit/tree/master/slots)
 
 
 # Who says there is no such thing as free beers? 
@@ -11,6 +11,9 @@ We are confident business can very well be combined with pleasure. If you’re i
 
 
 # It's informal, informative and entertaining
+
+<iframe width="680" height="383" src="https://www.youtube.com/embed/9vqfMSa1AB4" frameborder="0" allowfullscreen></iframe>
+
 [Caravelo](http://www.caravelo.com) is a leader in airline technology creating new services for airlines and passengers worldwide. We're based in Barcelona working hard with cutting edge web technologies. More often than not, we're out and about drinking beer and meeting nice people who are passionate about software development.
 
 We’re interested in meeting you in a relaxed way, with no pressure, zero-commitment or strings attached. No closed agenda, boring monologues just cool work, nice people & potentially great opportunities.
@@ -124,6 +127,11 @@ Can anyone join?
 
 > Yes! If you’re interested in technology, you’re not a jerk & open to meet like-minded people come over!
  
+## Press and Media coverage
+What the media is saying about it
+
+<a href="http://www.barcinno.com/barcelona-startup-caravelo-is-recruiting-with-free-beer-to-test-team-chemistry/
+"><img src="http://www.barcinno.com/wp-content/uploads/2014/07/cropped-barcinno-with-tagline2.jpg" alt="Biercab" height="50"></a>
 
 ----
 
