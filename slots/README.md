@@ -1,7 +1,11 @@
-# When is it happening?
-Depending on the day, we will meet between 18:00 and 19:00; we prefer to organize the meetups on Thursday and Friday, although we can manage on a case-per-case basis.
+# Where and when is it happening?
+Our company is based in **Barcelona**, so we are typically meeting there. It might happen that we travel around and grab some beers in other locations (like Madrid). 
+
+Depending on the day, we will meet between 18:00 and 20:00; we prefer to organize the meetups on Thursday and Friday, although we can manage on a case-per-case basis.
 
 Every slot has their own folder and is coded as follows `YYYY-MM-DD [STATUS]` 
+
+There is always a `[On-Demand]` Slot always open, so if you don't live in Barcelona, but you will be travelling there. Please let us know so we can publish an ad-hoc session for you.
 
 Where the `[STATUS]` can be: `OPEN`, `FULL`, `CANCELLED` or `PASSED`
 
