@@ -132,8 +132,8 @@ Can anyone join?
 ## Press and Media coverage
 What the media is saying about it
 
-<a href="http://www.barcinno.com/barcelona-startup-caravelo-is-recruiting-with-free-beer-to-test-team-chemistry/
-"><img src="http://www.barcinno.com/wp-content/uploads/2014/07/cropped-barcinno-with-tagline2.jpg" alt="Biercab" height="50"></a>
+<a href="http://www.barcinno.com/barcelona-startup-caravelo-is-recruiting-with-free-beer-to-test-team-chemistry/"><img src="http://www.barcinno.com/wp-content/uploads/2014/07/cropped-barcinno-with-tagline2.jpg" alt="Barcinno" height="50"></a>
+<a href="http://www.yorokobu.es/birras-emprendedoras/"><img src="http://www.yorokobu.es/wp-content/themes/yorokobu_wecolab/images/logotipo.png" alt="Yorokobu" height="40"></a>
 
 ----
 
