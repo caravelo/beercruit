@@ -1,13 +1,13 @@
 > 'BeerCruit' is a Zero-commitment meet-up for like-minded people while enjoying free beers. We’d love to meet new talent, share experiences in an informal and pleasurable way. 
 
-[![Caravelo's Beercruit 2015](https://img.shields.io/badge/BeerCruit-Jan--2016-brightgreen.svg)](https://github.com/caravelo/beercruit/tree/master/slots)
+[![Caravelo's Beercruit 2015](https://img.shields.io/badge/BeerCruit-Mar--2016-brightgreen.svg)](https://github.com/caravelo/beercruit/tree/master/slots)
 
 
 # Who says there is no such thing as free beers? 
 
 We are confident business can very well be combined with pleasure. If you’re interested in all things tech and what like-minded people are working on, let’s hang out!
 
-<img src="http://yukonbeerfestival.com/wp-content/uploads/2015/07/various-beers.jpg" height="200">
+<img src="http://www.oundle.info/wp-content/uploads/2016/02/craft-beers.jpeg" height="200">
 
 
 # It's informal, informative and entertaining
