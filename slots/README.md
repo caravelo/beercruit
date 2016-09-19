@@ -105,7 +105,7 @@ We are discovering and enjoying nice beer places in **Barcelona**. Among them yo
 <a href="http://garagebeer.co/"><img src="http://garagebeer.co/wp-content/uploads/2015/06/Imported-Layers.png" alt="Garage Beer Co" height="100"></a>
 <a href="http://www.lacerveteca.com/"><img src="http://www.lacerveteca.com/images/tpl/logo-roundV2.gif" alt="La Cerveteca" height="100"></a>
 <a href="https://www.brewdog.com/lowdown/blog/brewdog-barcelona-is-here"><img src="https://pbs.twimg.com/profile_images/722726897298317313/sqymIHvH_400x400.jpg" alt="BrewDog" height="100"></a>
-<a href="https://www.facebook.com/lacerveseraartesana"><img src="https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-1/c0.0.320.320/p320x320/10406375_819910761397943_5877291148117346681_n.jpg?oh=74c1a69a801ba4a9fbbce0928f6dad5a&oe=5852A2EB" alt="La Cervesa Artesana" height="100"></a>
+<a href="https://www.facebook.com/lacerveseraartesana"><img src="https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-1/c0.0.320.320/p320x320/10406375_819910761397943_5877291148117346681_n.jpg?oh=74c1a69a801ba4a9fbbce0928f6dad5a&oe=5852A2EBso" alt="La Cervesa Artesana" height="100"></a>
 
 Like any other place? Happy to take suggestions!
 
